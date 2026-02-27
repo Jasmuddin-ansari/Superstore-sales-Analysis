@@ -3,10 +3,10 @@
 ## 📊 Visualization Preview
 
 ### 📈 Monthly Sales Trend
-![Monthly Sales](Monthly sales trend.png)
+![Monthly Sales](Monthly_sales_trend.png)
 
 ### 🌍 Region-wise Sales
-![Region Sales](top 5 state sales.png)
+![Region Sales](top_5_state_sales.png)
 
 
 ## 🚀 Project Overview
