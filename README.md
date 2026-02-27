@@ -63,7 +63,6 @@ Superstore-Sales-Analysis/
 
 ## 🔮 Future Improvements
 - Convert analysis into an interactive Streamlit dashboard
-- Add profit margin and customer segment analysis
 - Build predictive model for future sales forecasting
 
 ---
