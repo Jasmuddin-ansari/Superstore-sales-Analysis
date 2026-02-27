@@ -6,7 +6,7 @@
 ![Monthly Sales](Monthly_sales_trend.png)
 
 ### 🌍 Region-wise Sales
-![Region Sales](region.png)
+![Region Sales](top_5_state_sales.png)
 
 
 ## 🚀 Project Overview
