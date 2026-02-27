@@ -1,5 +1,14 @@
 # 📊 Superstore Sales Data Analysis
 
+## 📊 Visualization Preview
+
+### 📈 Monthly Sales Trend
+![Monthly Sales](Monthly sales trend.png)
+
+### 🌍 Region-wise Sales
+![Region Sales](top 5 state sales.png)
+
+
 ## 🚀 Project Overview
 This project performs Exploratory Data Analysis (EDA) on the Superstore Sales dataset to extract meaningful business insights and understand sales performance across different regions, states, categories, and time periods.
 
